@@ -20,3 +20,8 @@ Identity V won't save you or make your life better.It's a scourge in itself.
 - [CVE-2026-5673](https://nvd.nist.gov/vuln/detail/CVE-2026-5673)
 - [CVE-2026-6068](https://nvd.nist.gov/vuln/detail/CVE-2026-6068)
 - [CVE-2026-6067](https://nvd.nist.gov/vuln/detail/CVE-2026-6067)
+
+### Other
+
+- [sox-ng rce](https://codeberg.org/sox_ng/sox_ng/commit/a4fda6c2227d7af3daa8fdd203bd1e9498c60b8d)
+- [sox-ng-rce](https://codeberg.org/sox_ng/sox_ng/commit/9a22b109a1334e52549bd2e6a86fca391db9e90f)
