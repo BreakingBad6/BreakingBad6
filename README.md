@@ -24,4 +24,4 @@ Identity V won't save you or make your life better.It's a scourge in itself.
 ### Other
 
 - [sox-ng rce](https://codeberg.org/sox_ng/sox_ng/commit/a4fda6c2227d7af3daa8fdd203bd1e9498c60b8d)
-- [sox-ng-rce](https://codeberg.org/sox_ng/sox_ng/commit/9a22b109a1334e52549bd2e6a86fca391db9e90f)
+- [sox-ng rce](https://codeberg.org/sox_ng/sox_ng/commit/9a22b109a1334e52549bd2e6a86fca391db9e90f)
