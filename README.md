@@ -8,7 +8,7 @@ Real prodigies exist: FDR aced the Ivy League and later led the US to victory in
 I also know prodigies endure: Yitang Zhang worked at Subway for eight years before cracking the twin primes; Zhang Xue got ousted from his own firm before founding Zhang Xue Motorcycle.
 Late bloomers thrive too: Morgan Freeman didn't break out until his forties.
 Compared to them, Hai Zi was no prodigy. He killed himself over a toxic fling and died in debt despite teaching at PKU. What was so divine about him? If scribbling poems makes you a god, then Qianlong was a fucking deity every single day.
-That’s why I see neobeo as the best crypto player—not because he's technically better, but because he's more than just a cryptographer: He is not only an outstanding cryptographer, but also a resilient father who stays strong despite his daughter's Rett syndrome.
+That’s why I see neobeo as the best crypto player that he is not only an outstanding cryptographer, but also a resilient father who stays strong despite his daughter's Rett syndrome.
 
 ### ⭐ Contact me at: 24270736@hdu.edu.cn
 
