@@ -25,7 +25,7 @@ Identity V is the worst virus in the world which won't save ur life.
 - [CVE-2026-104786]
 
 ### CVEs with AI model
-- [CVE-2026-65122] nvidia tensortRT
+- [CVE-2026-65122](https://nvd.nist.gov/vuln/detail/cve-2026-65122) nvidia tensortRT
 
 ### Other
 
